@@ -1,4 +1,4 @@
-# THE FINER POINTS OF C :|: OBJECT-ORIENTED PROGRAMMING
+# THE FINER POINTS OF C :|: OBJECT-ORIENTED C
 ### Corresponding C source: c-oop.c
 
 There's a simple cheat using pointers to functions that allows us to emulate OOP in C.
