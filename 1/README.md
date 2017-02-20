@@ -28,3 +28,5 @@ The naming convention of `array[index]` isn't technically correct, as writing `i
 (think about it - `*(array+index)` is equivalent to `*(index+array)`).
 
 Look at the example in "indexes.c" to get a grasp on exactly how pointers and arrays work.
+
+&lt; Previous &bull; [Example](https://github.com/aaronryank/finer-points-of-c/blob/master/1/indexes.c) &bull; [Next >](https://github.com/aaronryank/finer-points-of-c/tree/master/2)

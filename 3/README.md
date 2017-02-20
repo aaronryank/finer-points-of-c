@@ -1,5 +1,5 @@
-THE FINER POINTS OF C :|: OBJECT-ORIENTED PROGRAMMING
-Corresponding C source: c-oop.c
+# THE FINER POINTS OF C :|: OBJECT-ORIENTED PROGRAMMING
+### Corresponding C source: c-oop.c
 
 There's a simple cheat using pointers to functions that allows us to emulate OOP in C.
 
@@ -51,3 +51,5 @@ The `this` keyword in C++ is explicitly passed at the ABI level. So there's no r
 That being said, there's still quite a bit of fun to be had with C "Objects".
 
 Check out the C source example, "c-oop.c". For some advanced (cheating) techniques, check out [polymorphism.c](https://github.com/aaronryank/c-prohackr112/blob/master/polymorphism.c). 
+
+[&lt; Previous](https://github.com/aaronryank/finer-points-of-c/tree/master/2) &bull; [Example](https://github.com/aaronryank/finer-points-of-c/blob/master/3/c-oop.c) &bull; [Next >](https://github.com/aaronryank/finer-points-of-c/tree/master/4)

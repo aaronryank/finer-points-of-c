@@ -26,3 +26,5 @@ Bit operations:
     x | y = 0b1110  (0d14)
     x ^ y = 0b0110  (0d6)
       ~ y = 1b1111111111111111111111111111111111111111111111111111111111110101 (-0d11)    *Assuming 64-bit system
+
+[&lt; Previous](https://github.com/aaronryank/finer-points-of-c/tree/master/4) &bull; [Example](https://github.com/aaronryank/finer-points-of-c/blob/master/5/bit-operations.c) &bull; [Next >](https://github.com/aaronryank/finer-points-of-c/tree/master/6)
