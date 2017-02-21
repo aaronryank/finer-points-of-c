@@ -1,6 +1,0 @@
-THE FINER POINTS OF C :|: LITTLE-KNOWN OPERATORS
-Corresponding C source: "operators.c"
-
-There are some little-known operators in C. Some of these are real.
-Some are just silly.
-See the C source "operators.c" for these operators.
