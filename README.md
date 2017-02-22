@@ -9,4 +9,4 @@ Copyright &copy; 2017 Ryan Klingler.
 4. [Basic Types](https://github.com/aaronryank/finer-points-of-c/tree/master/4)
 5. [Bit Operations](https://github.com/aaronryank/finer-points-of-c/tree/master/5)
 6. [String Concatenation](https://github.com/aaronryank/finer-points-of-c/tree/master/6)
-7. [Operators](https://github.com/aaronryank/finer-points-of-c/tree/master/6)
+7. [Operators](https://github.com/aaronryank/finer-points-of-c/tree/master/7)
