@@ -11,4 +11,4 @@ To test each example, compile with:
 
 Replacing x with 1, 2, or 3.
 
-[&lt; Previous](https://github.com/aaronryank/finer-points-of-c/tree/master/5) &bull; [Example](https://github.com/aaronryank/finer-points-of-c/blob/master/6/string-cat.c) &bull; Next >
+[&lt; Previous](https://github.com/aaronryank/finer-points-of-c/tree/master/5) &bull; [Example](https://github.com/aaronryank/finer-points-of-c/blob/master/6/string-cat.c) &bull; [Next >](https://github.com/aaronryank/finer-points-of-c/tree/master/7)
