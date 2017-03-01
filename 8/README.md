@@ -1,4 +1,4 @@
-# THE FINER POINTS OF C :|: C PREPROCSESOR WIZARDRY
+# THE FINER POINTS OF C :|: PREPROCSESOR WIZARDRY
 ### Corresponding C source: "preprocessor.c"
 
 (I'm just going to copy the C standard, 'cause I can't write it better myself.)
