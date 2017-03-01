@@ -78,7 +78,7 @@ A control line of the form
      # undef identifier
 
 causes the identifier's preprocessor definition to be forgotten. It is not erroneous to apply
-#undef to an unknown identifier.
+`#undef` to an unknown identifier.
 
 When a macro has been defined in the second form, subsequent textual instances of the
 macro identifier followed by optional white space, and then by `(`, a sequence of tokens
