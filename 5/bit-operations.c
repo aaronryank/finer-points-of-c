@@ -4,7 +4,7 @@ int main(void)
 {
 
  /* REFERENCE SHEET
-    Copyright (C) 2016 Ryan Klingler
+    Copyright (C) 2008-2016 Ryan Klingler
 
     << RSHIFT
     >> LSHIFT

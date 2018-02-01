@@ -1,4 +1,4 @@
-/* Copyright (C) 2016 Ryan Klingler.
+/* Copyright (C) 2008-2016 Ryan Klingler.
    An example illustrating how C indexes work. */
 
 #include <stdio.h>

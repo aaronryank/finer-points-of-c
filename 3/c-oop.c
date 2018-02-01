@@ -1,4 +1,4 @@
-/* Copyright (C) 2016 Ryan Klingler
+/* Copyright (C) 2008-2016 Ryan Klingler
    c-oop.c : C Object Oriented Programming
    A simple example of object-oriented programming in C. */
 

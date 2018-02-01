@@ -1,4 +1,4 @@
-/* Copyright (C) 2016 Ryan Klingler.
+/* Copyright (C) 2008-2016 Ryan Klingler.
    Example of basic types in C. */
 
 #include <stdio.h>
