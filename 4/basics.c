@@ -51,6 +51,7 @@ int main(void)
 
     printf("basic_int = %d\n", basic_int, basic_char);
 
+    free(basic_struct);
     return 0;
 }
 /*
